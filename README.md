@@ -1,2 +1,4 @@
 # hello-world
-just one repository
+
+hi my name is TedoPark
+can you tell me how to get money?
